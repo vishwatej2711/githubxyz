@@ -4,3 +4,4 @@ this is the first commit .
 
   -- before the second commit .
 
+After the second commit .
